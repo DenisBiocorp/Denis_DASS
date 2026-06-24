@@ -66,7 +66,7 @@ GWAS | Cancer Genomics |  AI for Omics Technologies | Clinical Genomics  | NGS P
 | 2016 – 2017 | **Baccalaureate Part 2**  | Lycée de Tokoin I |
 
 
-### Certified Trainings  
+### Certified Trainings [click here to get access to all certificate](https://github.com/DenisBiocorp/Denis_DASS/tree/main/Certified_training) 
 
 
 - **Introduction to Next-Generation Sequencing and Bioinformatics** (Fondation Mérieux, France,  June 2026))
