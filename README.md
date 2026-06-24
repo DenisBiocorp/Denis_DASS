@@ -66,7 +66,7 @@ GWAS | Cancer Genomics |  AI for Omics Technologies | Clinical Genomics  | NGS P
 | 2016 – 2017 | **Baccalaureate Part 2**  | Lycée de Tokoin I |
 
 
-### Certified Trainings [click here to get access to all certificate](https://github.com/DenisBiocorp/Denis_DASS/tree/main/Certified_training) 
+### Certified Trainings
 
 
 - **Introduction to Next-Generation Sequencing and Bioinformatics** (Fondation Mérieux, France,  June 2026))
@@ -82,7 +82,7 @@ GWAS | Cancer Genomics |  AI for Omics Technologies | Clinical Genomics  | NGS P
 - **Quality management in medical biology laboratories** (Fondation Mérieux / AFNOR / Institut Pasteur, France, January 2022)
 - **Scientific writing and publication** (Institut de Recherche pour le Developpement et ses Partenaires , France, January 2022)
 - **Bioinformatics for medical genetics** (Université Paris, France, January 2022)
-
+  [click here to get access to all certificate](https://drive.google.com/drive/folders/1Kc2FjuUjO9QYHx8fJfbFeBk2WStx7w-X?usp=drive_link) 
 
 *The training was completed on platforms such as France Université Numérique, the Mérieux Foundation website, and via Zoom.*
 
