@@ -84,29 +84,26 @@ GWAS | Cancer Genomics |  AI for Omics Technologies | Clinical Genomics  | NGS P
 - **Bioinformatics for medical genetics** (Université Paris, France, January 2022)
 
 
-  [click here to get access to all certificate](https://drive.google.com/drive/folders/1Kc2FjuUjO9QYHx8fJfbFeBk2WStx7w-X?usp=drive_link) 
+  [Click here to get access to all certificate](https://drive.google.com/drive/folders/1Kc2FjuUjO9QYHx8fJfbFeBk2WStx7w-X?usp=drive_link) 
 
 *The training was completed on platforms such as France Université Numérique, the Mérieux Foundation website, and via Zoom.*
 
----  
-
-### 🏆 Olympiad  
-
-
-- **Scientific Horizons of Education** (Moscow, October 2025)
-- **5th International Olympiad in Russian as a Foreign Language** (Tomsk State University, Russia, May 2025)
 
 ---
 
-### 🏆🎤 Competitions and Conferences  
+### 🏆🎤 Olympiads, Competitions and Conferences  
 
 
 | **Name** | **Date**| **Type of participation**| **Theme**|
 |---|---|---|---|
+| **Scientific Horizons of Education**| 26.10.2025-27.10.2025 | Test| -|
 | **7th International Chemistry Dictation** |17.05.2025-18.05.2025| Test | Формула Победы |
+| **5th International Olympiad in Russian as a Foreign Language**|21.04.2025-06.05.2025| Test|Героем может быть каждый!|
 | **5th International Scientific and Practical Conference : Scientific Initiative of Foreign Students and Postgraduates** |22.04.2025-24.04.2025| Conference (Oral presentation) | Бактериальные инфекции и применение антибиотиков в современной медицинской практике в того|
-| **6th International Photo Contest**| 20.03.2025-28.04.2025 | Photo + resume | МЫ УЧИМСЯ В РОССИИ |
+| **6th International Photo Contest**| 20.03.2025-28.04.2025 | Photo + resume | МЫ УЧИМСЯ В РОССИИ |  
 
+
+  [Click here to get access to all certificate](https://drive.google.com/drive/folders/1a2AiZ138iyFXiNR16voJsPeJqxbLRuSS?usp=sharing)
 
 ---  
 
