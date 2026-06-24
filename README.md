@@ -57,30 +57,51 @@ I am a **clinical biologist** (Bachelor's degree in Medical and Biological Analy
 
 | Period | Degree / Training | Institution |
 |--------|------------------|-------------|
-| 2025 – 2026 | **Master's in Genomics and Bioinformatics** (in progress) | University of Science and technology of Ufa |
+| 2025 – 2027 (in progress)| **Master's in Genomics and Bioinformatics** (in progress) | University of Science and technology of Ufa |
 | 2024 – 2025 | **Russian language training** | University of Science and technology of Ufa |
 | 2018 – 2021 | **Bachelor in Medical and Biological Analysis**  | ESTBA / University of Lomé |
 | 2016 – 2017 | **Baccalaureate Part 2**  | Lycée de Tokoin I |
 
 
-### Certified Trainings
-- Introduction to Next-Generation Sequencing and Bioinformatics (Fondation Mérieux, june 2026)
-- Personal Artificial Intelligence: from local models to autonomous agents (Дирек-Медиа, April 2026)
-- Artificial intelligence in the work of university professors (University of Science and Technology of Ufa, December 2025)
-- Diagnostic strategies for cancers (Université de Paris, March 2022)
-- Critical thinking and fallacious reasoning (CY Université de Paris, February 2022)
-- Quality management in medical biology laboratories (Fondation Mérieux / AFNOR / Institut Pasteur, January 2022)
-- Scientific writing and publication (Institut de Recherche pour le Developpement et ses Partenaires , January 2022)
-- Bioinformatics for medical genetics (Université Paris, Janvier 2022)
-- Research ethics (Université de Lyon )
-- Introduction to nanosciences (Université Paris-Saclay)
+### Certified Trainings  
+
+
+- **Introduction to Next-Generation Sequencing and Bioinformatics** (Fondation Mérieux, France,  June 2026))
+- **Precision at scale: Unlocking the potential of target NGS** (Dr.Omics Labs, India, March 2026) 
+- **Personal Artificial Intelligence: from local models to autonomous agents** (Дирек-Медиа, Russia,  April 2026)
+- **Artificial intelligence in the work of university professors** (University of Science and Technology of Ufa, Russia, December 2025)
+- **Professional writtig and publishing in Scientific Journals** (International Federation of Biomedical Laboratory Science(IFLBS), Canada, May 2025)
+- **Open the doors of the laboratory: cells and stem cells** (Nantes Université, France, November 2022)
+- **Understanding Nanosciences** (Université Paris-Saclay, France, July 2022)
+- **Research ethics** (Université de Lyon, France, April 2022)
+- **Diagnostic strategies for cancers** (Université de Paris, France, March 2022)
+- **Exercising critical thinking: data and fallacious reasoning** (CY Université de Paris, France, February 2022)
+- **Quality management in medical biology laboratories** (Fondation Mérieux / AFNOR / Institut Pasteur, France, January 2022)
+- **Scientific writing and publication** (Institut de Recherche pour le Developpement et ses Partenaires , France, January 2022)
+- **Bioinformatics for medical genetics** (Université Paris, France, January 2022)
+
 
 ---  
 
-### Olympiad
-- Scientific Horizons of Education (Moscow, October 2025)
-- 5th International Olympiad in Russian as a Foreign Language (Tomsk State University, May 2025)
+### Olympiad  
 
+
+- **Scientific Horizons of Education** (Moscow, October 2025)
+- **5th International Olympiad in Russian as a Foreign Language** (Tomsk State University, Russia, May 2025)
+
+---
+
+### Competitions and Conferences  
+
+
+| **Name** | **Date**| **Type of participation**| **Theme**|
+|---|---|---|---|
+| **7th International Chemistry Dictation** |17.05.2025-18.05.2025| Test | Формула Победы |
+| **5th International Scientific and Practical Conference Scientific Initiative of Foreign Students and Postgraduates** |22.04.2025-24.04.2025| Conference (Oral presentation) | Bacterial Infections and the Use of Antibiotics in Modern Medical Practice|
+| **6th International Photo Contest**| 20.03.2025-28.04.2025 | Photo + resume | МЫ УЧИМСЯ В РОССИИ |
+
+
+---  
 
 ## 🌐 Languages
 
