@@ -12,7 +12,10 @@ I am a **clinical biologist** (Bachelor's degree in Medical and Biological Analy
 
  **Goal**: To join a research team or medical genetics laboratory as a bioinformatics engineer, and pursue a PhD in advanced Bioinformatics.  
 
-**Interests**  GWAS | Cancer Genomics |  AI for Omics technology | Clinical Genomics  | NGS Pipelines | Structural Bioinformatic | Teaching
+**Interests**   
+
+
+GWAS | Cancer Genomics |  AI for Omics Technologies | Clinical Genomics  | NGS Pipelines | Structural Bioinformatic | Teaching
 
 ---
 
@@ -57,7 +60,7 @@ I am a **clinical biologist** (Bachelor's degree in Medical and Biological Analy
 
 | Period | Degree / Training | Institution |
 |--------|------------------|-------------|
-| 2025 – 2027 (in progress)| **Master's in Genomics and Bioinformatics** (in progress) | University of Science and technology of Ufa |
+| 2025 – 2027 | **Master's in Genomics and Bioinformatics** (in progress) | University of Science and technology of Ufa |
 | 2024 – 2025 | **Russian language training** | University of Science and technology of Ufa |
 | 2018 – 2021 | **Bachelor in Medical and Biological Analysis**  | ESTBA / University of Lomé |
 | 2016 – 2017 | **Baccalaureate Part 2**  | Lycée de Tokoin I |
@@ -69,7 +72,7 @@ I am a **clinical biologist** (Bachelor's degree in Medical and Biological Analy
 - **Introduction to Next-Generation Sequencing and Bioinformatics** (Fondation Mérieux, France,  June 2026))
 - **Precision at scale: Unlocking the potential of target NGS** (Dr.Omics Labs, India, March 2026) 
 - **Personal Artificial Intelligence: from local models to autonomous agents** (Дирек-Медиа, Russia,  April 2026)
-- **Artificial intelligence in the work of university professors** (University of Science and Technology of Ufa, Russia, December 2025)
+- **Artificial intelligence in the work of University Professors** (University of Science and Technology of Ufa, Russia, December 2025)
 - **Professional writtig and publishing in Scientific Journals** (International Federation of Biomedical Laboratory Science(IFLBS), Canada, May 2025)
 - **Open the doors of the laboratory: cells and stem cells** (Nantes Université, France, November 2022)
 - **Understanding Nanosciences** (Université Paris-Saclay, France, July 2022)
@@ -81,9 +84,11 @@ I am a **clinical biologist** (Bachelor's degree in Medical and Biological Analy
 - **Bioinformatics for medical genetics** (Université Paris, France, January 2022)
 
 
+*The training was completed on platforms such as France Université Numérique, the Mérieux Foundation website, and via Zoom.*
+
 ---  
 
-### Olympiad  
+### 🏆 Olympiad  
 
 
 - **Scientific Horizons of Education** (Moscow, October 2025)
@@ -91,13 +96,13 @@ I am a **clinical biologist** (Bachelor's degree in Medical and Biological Analy
 
 ---
 
-### Competitions and Conferences  
+### 🏆🎤 Competitions and Conferences  
 
 
 | **Name** | **Date**| **Type of participation**| **Theme**|
 |---|---|---|---|
 | **7th International Chemistry Dictation** |17.05.2025-18.05.2025| Test | Формула Победы |
-| **5th International Scientific and Practical Conference Scientific Initiative of Foreign Students and Postgraduates** |22.04.2025-24.04.2025| Conference (Oral presentation) | Bacterial Infections and the Use of Antibiotics in Modern Medical Practice|
+| **5th International Scientific and Practical Conference : Scientific Initiative of Foreign Students and Postgraduates** |22.04.2025-24.04.2025| Conference (Oral presentation) | Бактериальные инфекции и применение антибиотиков в современной медицинской практике в того|
 | **6th International Photo Contest**| 20.03.2025-28.04.2025 | Photo + resume | МЫ УЧИМСЯ В РОССИИ |
 
 
